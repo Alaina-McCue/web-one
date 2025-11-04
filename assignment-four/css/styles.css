@@ -1,0 +1,46 @@
+body {background-color: #97dede}
+
+.type1 {
+    font-weight: bold;
+    font-family: "Momo Trust Display", sans-serif;
+}
+
+.type2 {
+    letter-spacing: 20px;
+    font-family: "Momo Signature", cursive;
+}
+
+.type3 {
+    line-height: 4;
+    font-family:  "Stack Sans Notch"
+}
+
+.type4 {
+    font-size: 50px;
+    font-family: "Zalando Sans SemiExpanded"
+}
+
+.type5 {
+    text-align: right;
+    font-family: "Bitcount Grid Single", system-ui;
+}
+
+.type6 {
+    font-family: "Dancing Script", cursive;
+}
+
+.type7 {
+    font-family: "Bungee", sans-serif;
+}
+
+.type8 {
+    font-family: "Pacifico", cursive;margin-bottom: 
+}
+
+.type9 {
+    font-family: "Rubik 80s Fade", system-ui;
+}
+
+.type10 {
+    
+}
